@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/main_loading.unity
+- path: Assets/Scenes/clicker_test.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
