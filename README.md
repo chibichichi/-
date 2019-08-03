@@ -1,11 +1,10 @@
 # 제목을 입력해주세요
-
+코 튼 릴 리
 ## 소개를 입력해주세요
+![팀 이미지](img/Tekaaluk.jpg)
 
 ### 줄거리를 소개해주세요
-
-## 무엇을 더 넣어야할지 모르겠어요
-
+![로딩 화면](img/loading.png)
 ---
 
 # 참가한 사람들을 소개해주세요
@@ -18,7 +17,7 @@
 
 프로그래머
 
-[Chibichichi](https://twitter.com/chocolat_chibi)
+[Chibichichi](https://twitter.com/chibi_chisup)
 
 Ru1er
 
