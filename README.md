@@ -1,7 +1,7 @@
 # 제목을 입력해주세요
 코 튼 릴 리
 ## 소개를 입력해주세요
-![팀 이미지](img/Tekaaluk.jpg)
+![팀 이미지](img/tekaaluk.jpg)
 
 ### 줄거리를 소개해주세요
 ![로딩 화면](img/loading.png)
